@@ -1,4 +1,4 @@
-package com.hx.securityserver.conf;
+package com.hx.securityclient.conf;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

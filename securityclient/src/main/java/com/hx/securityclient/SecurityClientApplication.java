@@ -1,4 +1,4 @@
-package com.hx.securityserver;
+package com.hx.securityclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

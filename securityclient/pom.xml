@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.hx</groupId>
-    <artifactId>securityserver</artifactId>
+    <artifactId>securityclient</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>securityclient</name>
     <description>Demo project for Spring Boot</description>
