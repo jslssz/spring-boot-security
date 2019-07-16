@@ -1,4 +1,4 @@
-package com.hx.securityserver.config;
+package com.hx.securityclient.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

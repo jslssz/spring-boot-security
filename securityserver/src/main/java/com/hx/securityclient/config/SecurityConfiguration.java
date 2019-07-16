@@ -1,4 +1,4 @@
-package com.hx.securityserver.config;
+package com.hx.securityclient.config;
 
 /**
  * @author jxlgcmh

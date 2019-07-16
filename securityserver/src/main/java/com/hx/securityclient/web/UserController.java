@@ -1,4 +1,4 @@
-package com.hx.securityserver.web;
+package com.hx.securityclient.web;
 
 /**
  * @author jxlgcmh
