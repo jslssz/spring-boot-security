@@ -11,7 +11,7 @@
     <groupId>com.hx</groupId>
     <artifactId>securityserver</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>securityserver</name>
+    <name>securityclient</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
